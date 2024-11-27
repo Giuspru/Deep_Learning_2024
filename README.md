@@ -10,9 +10,10 @@ Welcome to the **Deep Learning Labs** repository! This project is designed to ex
 - Backbone of a Deep Learning project.
 
 ### Lab 2:  
--
--
--
+- Hands on the framework.
+- Implementation of Linear Regression with pytorch.
+- Implementation of Logistic eith Pytorch.
+- Implementation of NN for MNIST dataset.
 
 ### Lab 3:   
 -   
