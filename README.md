@@ -15,20 +15,8 @@ Welcome to the **Deep Learning Labs** repository! This project is designed to ex
 - Implementation of Logistic eith Pytorch.
 - Implementation of NN for MNIST dataset.
 
-### Lab 3:   
--   
--   
-- 
-
-### Lab 4:   
--   
--   
-- 
-
-### Lab 5: Exam Project 
--  
-- 
-- 
+###  FInal Exam Project 
+- Monocular Depth Estimation
 
 ## Getting Started  
 1. Clone this repository:  
